@@ -28,9 +28,9 @@ ___
 Based in a random inspirational location the app suggests several hotels with their Booking score and price. On click the user is redirected to the main booking hotel page.
 The user also can search for an specific place and receive suggestions for the given location.
 
-![mobile screenshot of the application][https://github.com/taliescher/halyard/tree/master/static/mobile.png]
+![mobile screenshot of the application][static/mobile.png]
 
-![desktop screenshot of the application][https://github.com/taliescher/halyard/tree/master/static/desktop.png]
+![desktop screenshot of the application][static/desktop.png]
 
 
 #### Why

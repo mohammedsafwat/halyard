@@ -24,6 +24,4 @@ Based in a random inspirational location the app suggests several hotels with th
 The user also can search for an specific place and receive suggestions for the given location.
 
 ![mobile screenshot of the application](/static/mobile.png)
-
-![desktop screenshot of the application](/static/desktop.png)
 ___

@@ -1,5 +1,3 @@
-This project was made with ♥ by Mohammed Abdullatif and [Tali Escher](https://github.com/taliescher).
-
 # Halyard
 An inspirational travel web app powered by [Booking](http://booking.co)
 
@@ -31,9 +29,4 @@ The user also can search for an specific place and receive suggestions for the g
 ![mobile screenshot of the application](/static/mobile.png)
 
 ![desktop screenshot of the application](/static/desktop.png)
-
-
-#### Why
-
-To have fun.
 ___

@@ -1,10 +1,7 @@
 # Halyard
 An inspirational travel web app powered by [Booking](http://booking.co)
 
-###### _the simple path_
-Just click [here](https://halyard-g1voskgvn.now.sh/) - have fun.
-
-###### _the less simple path_
+###### How to run the project
 
 ```bash
 git clone git@github.com:taliescher/halyard.git

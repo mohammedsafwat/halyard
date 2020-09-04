@@ -12,7 +12,7 @@
     "geolocator": "^2.1.5",
     "implement-js": "^0.0.26",
     "next": "^8.0.4",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-infinite-scroll-component": "^4.5.2",
